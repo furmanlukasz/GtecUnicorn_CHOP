@@ -1,0 +1,3 @@
+C:\Users\Asus\Desktop\GtecUnicorn_TDwrapper\CHOP\Release\UnicornCHOP.dll
+C:\Users\lukas\OneDrive\Pulpit\GtecUnicorn_TDwrapper\CHOP\Release\UnicornCHOP.dll
+C:\Users\lukas\OneDrive\Pulpit\GtecUnicorn_TDwrapper\GtecUnicorn_CHOP\Release\UnicornCHOP.dll

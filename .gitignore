@@ -1,0 +1,8 @@
+*.pkl
+*.npz
+.vs/*
+
+*.png
+*.mov
+*.ipch
+*.db

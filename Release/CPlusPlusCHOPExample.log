@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (CPlusPlusCHOPExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CPlusPlusCHOPExample.vcxproj -> C:\Users\lukas\OneDrive\Pulpit\GtecUnicorn_TDwrapper\GtecUnicorn_CHOP\Release\UnicornCHOP.dll

@@ -1,0 +1,5 @@
+﻿  UnicornCHOP.cpp
+C:\Users\Asus\Desktop\GtecUnicorn_TDwrapper\CHOP\UnicornTD.h(9,10): fatal error C1083: Cannot open include file: 'unicorn.h': No such file or directory
+  UnicornTD.cpp
+C:\Users\Asus\Desktop\GtecUnicorn_TDwrapper\CHOP\UnicornTD.h(9,10): fatal error C1083: Cannot open include file: 'unicorn.h': No such file or directory
+  Generating Code...
