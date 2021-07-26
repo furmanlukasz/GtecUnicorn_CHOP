@@ -1,6 +1,6 @@
 *.pkl
 *.npz
-.vs/*
+.vs/
 
 *.png
 *.mov
